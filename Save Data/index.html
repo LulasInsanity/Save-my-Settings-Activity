@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css"> 
+</head>
+<body>
+    <h1 id="name">Save My Settings Activity</h1>
+
+<h2>This site contains practical applications of HTML5 APP Development Cert. <span id="cert-topics">Topics 3.1 - Forms | 3.2 - Input Validation | 5.5 - LocalStorage vs SessionStorage</span></h2>
+
+<form id="settings-form">
+  <label>Username: 
+    <input type="text" id="username" autofocus required maxlength="20">
+  </label><br><br>
+
+  <label>Theme Color:
+    <input type="color" id="theme-color" required>
+  </label><br><br>
+
+  <label>Save Settings:
+    <select id="storage-choice">
+      <option value="local">Save Forever (Local Storage)</option>
+      <option value="session">Save Until Tab Closes (Session Storage)</option>
+    </select>
+  </label><br><br>
+
+
+   <label> Font Family:
+   <select id="font">
+    <option value="Calibri">Calibri</option>
+    <option value="Arial">Arial</option>
+    <option value="Comic Sans">Comic Sans</option>
+   </select> 
+  </label><br><br>
+
+
+  <button type="submit">Save</button>
+</form>
+<script src="script.js"></script>
+</body>
+</html>
