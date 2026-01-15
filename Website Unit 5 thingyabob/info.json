@@ -1,0 +1,131 @@
+[
+  {
+    "id": 1,
+    "title": "Dispatch",
+    "publisher": "Adhoc Studios",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5TC_ot8kEqaFh89HD6W2QMolS3yoFyuIsC_cPojLxcu9iAkGpLy4RjAVajkRmBPgmbvLyNQ&s=10",
+    "release": 2025,
+    "platforms": ["PC", "PS5"] 
+  },
+  {
+    "id": 2,
+    "title": "Stardew Valley",
+    "publisher": "ConcernedApe",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ3A_wFb9c966h6ru_9DMrMjj_dLlcwZNeiig18yODGBl1LDQudWuFkXg&s",
+    "release": 2016,
+    "platforms": ["PC", "Switch", "PS4", "Xbox One"]
+  },
+  {
+    "id": 3,
+    "title": "Hades",
+    "publisher": "Supergiant Games",
+    "image":"https://static.wikia.nocookie.net/hades_gamepedia_en/images/a/a0/Hades_Pack_Art.png/revision/latest?cb=20181213192439",
+    "release": 2020,
+    "platforms": ["PC", "Switch", "PS4", "Xbox One"]
+  },
+  {
+    "id": 4,
+    "title": "Minecraft",
+    "publisher": "Mojang Studios",
+    "image":"https://upload.wikimedia.org/wikipedia/en/b/b6/Minecraft_2024_cover_art.png",
+    "release": 2011,
+    "platforms": ["All"]
+  },
+  {
+    "id": 5,
+    "title": "Red Dead Redemption 2",
+    "publisher": "Rockstar Games",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjEIOKO0F-fVxGw1aZJMr-gr1vnCXdvrFewu-qw2SJNw_bL68jzIYYDCdnoYQDX3C99ZeNOA&s=10",
+    "release": 2018,
+    "platforms": ["PC", "PS4", "Xbox One"]
+  },
+  {
+    "id": 6,
+    "title": "Cyberpunk 2077",
+    "publisher": "CD Projekt Red",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWH8K2baa5QsbGLwLgdOBoCgAH8G-tts6ljcfY3mdpYjy4QjtJxuaAPeTM3asitg9ti_Mf&s=10",
+    "release": 2020,
+    "platforms": ["PC", "PS5", "Xbox Series X/S"]
+  },
+  {
+    "id": 7,
+    "title": "The Witcher 3: Wild Hunt",
+    "publisher": "CD Projekt Red",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjoeSJD-maaNd40HZzP9bXE7K-9hLPQmo1FrGv1QFEZUBiTqT_xZxbKhBoTD__ETcvFlLFyg&s=10",
+    "release": 2015,
+    "platforms": ["PC", "Switch", "PS4", "Xbox One"]
+  },
+  {
+    "id": 8,
+    "title": "Grand Theft Auto V",
+    "publisher": "Rockstar Games",
+    "image":"",
+    "release": 2013,
+    "platforms": ["PC", "PS3", "Xbox 360"]
+  },
+  {
+    "id": 9,
+    "title": "Animal Crossing: New Horizons",
+    "publisher": "Nintendo",
+    "release": 2020,
+    "platforms": ["Switch"]
+  },
+  {
+    "id": 10,
+    "title": "Elden Ring",
+    "publisher": "FromSoftware",
+    "release": 2022,
+    "platforms": ["PC", "PS5", "Xbox Series X/S"]
+  },
+  {
+    "id": 11,
+    "title": "Super Mario Odyssey",
+    "publisher": "Nintendo",
+    "release": 2017,
+    "platforms": ["Switch"]
+  },
+  {
+    "id": 12,
+    "title": "Celeste",
+    "developer": "Maddy Makes Games",
+    "release": 2018,
+    "platforms": ["PC", "Switch", "PS4", "Xbox One"]
+  },
+  {
+    "id": 13,
+    "title": "Undertale",
+    "publisher": "Toby Fox",
+    "release": 2015,
+    "platforms": ["PC", "Switch", "PS4", "Xbox One"]
+  },
+  {
+    "id": 14,
+    "title": "Fallout 4",
+    "publisher": "Bethesda",
+    "release": 2015,
+    "platforms": ["PC", "PS4", "Xbox One"]
+  },
+  {
+    "id": 15,
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "publisher": "Nintendo",
+    "release": 2017,
+    "platforms": ["Switch", "Wii U"]
+  },
+  {
+    "id": 16,
+    "title": "Fortnite",
+    "publisher": "Epic Games",
+    "release": 2017,
+    "platforms": ["All"]
+
+  },
+  {
+    "id": "17",
+    "title":"Geometry Dash",
+    "publisher":"RobTop Games", 
+    "release": "2013",
+    "platforms": ["All"]
+  }
+
+  ]
